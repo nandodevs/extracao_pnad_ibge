@@ -1,0 +1,30 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Dados baixados / gerados
+data/pdfs/
+data/spreadsheets/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ambiente
+.env
+*.env.local
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IA
+.opencode/
